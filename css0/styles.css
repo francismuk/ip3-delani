@@ -35,3 +35,18 @@ h6 {
 .designshowing {
   display: none;
 }
+.devshowing {
+  display: none;
+}
+.productshowing {
+  display: none;
+}
+.wwd {
+  font-family: 'Fredoka One', cursive;
+  cursor: pointer;
+
+}
+h4 {
+  text-align: center;
+  font-family: 'Fredoka One', cursive;
+}
