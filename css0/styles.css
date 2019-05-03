@@ -1,3 +1,6 @@
+body {
+  width: 100%;
+}
 .himg {
   background-image:url(../images/backgrounds/h_img.jpg);
   background-repeat: no-repeat;
