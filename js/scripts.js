@@ -11,3 +11,19 @@ $(document).ready(function () {
     $(".productshowing").toggle();
     $(".producthidden").toggle();
   });
+  $("#hovers1").hover(function(){
+      $(this).css("background-color", "#EBFBFC");
+      }, function(){
+      $(this).css("background-color", "white");
+    });
+    $("#hovers2").hover(function(){
+      $(this).css("background-color", "#EBFBFC");
+      }, function(){
+      $(this).css("background-color", "white");
+    });
+    $("#hovers3").hover(function(){
+      $(this).css("background-color", "#EBFBFC");
+      }, function(){
+      $(this).css("background-color", "white");
+    });
+  })
