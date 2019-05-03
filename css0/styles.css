@@ -16,3 +16,12 @@ h6 {
   font-family: 'Handlee', cursive;
   height: 240px;
 }
+.simg {
+  background-image:url(/home/francis/Documents/new/studio/images/backgrounds/s_image.jpg);
+  background-repeat: no-repeat;
+  background-attachment: local;
+  height: 450px;
+  width: auto;
+  text-align: center;
+  color: white;
+}
