@@ -1,5 +1,5 @@
 .himg {
-  background-image:url(/home/francis/Documents/new/studio/images/backgrounds/h_img.jpg);
+  background-image:url(/home/francis/Documents/new/IP3/images/backgrounds/h_img.jpg);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
@@ -17,7 +17,7 @@ h6 {
   height: 240px;
 }
 .simg {
-  background-image:url(/home/francis/Documents/new/studio/images/backgrounds/s_image.jpg);
+  background-image:url(/home/francis/Documents/new/IP3/images/backgrounds/s_image.jpg);
   background-repeat: no-repeat;
   background-attachment: local;
   height: 450px;
@@ -85,5 +85,5 @@ h4 {
 }
 .contact {
   text-align: center;
-  background-image: url(/home/francis/Documents/new/studio/images/backgrounds/c_image.jpg);
+  background-image: url(/home/francis/Documents/new/IP3/images/backgrounds/c_image.jpg);
 }
