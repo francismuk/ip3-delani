@@ -12,17 +12,17 @@ $(document).ready(function () {
     $(".producthidden").toggle();
   });
   $("#hovers1").hover(function(){
-      $(this).css("background-color", "#EBFBFC");
+      $(this).css("background-color", "#FFB6C1");
       }, function(){
       $(this).css("background-color", "white");
     });
     $("#hovers2").hover(function(){
-      $(this).css("background-color", "#EBFBFC");
+      $(this).css("background-color", "#FFB6C1");
       }, function(){
       $(this).css("background-color", "white");
     });
     $("#hovers3").hover(function(){
-      $(this).css("background-color", "#EBFBFC");
+      $(this).css("background-color", "#FFB6C1");
       }, function(){
       $(this).css("background-color", "white");
     });
