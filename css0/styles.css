@@ -89,8 +89,20 @@ h4 {
 .contact {
   text-align: center;
   background-image: url(../images/backgrounds/c_image.jpg);
+  font-family: 'Handlee', cursive;
+  text-decoration-color: transparent;
+  text-decoration-style: transparent;
+  background-size: cover;
+  background-position: center
+}
+
+form.contact-us input,
+form.contact-us textarea,
+div.contact-btn button{
+    background: transparent;
 }
 .social {
   text-align: center;
   font-family: 'Fredoka One', cursive;
+  position: relative;
 }
